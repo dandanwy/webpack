@@ -1,0 +1,16 @@
+{
+  "name": "lesson01",
+  "version": "1.0.0",
+  "description": "多文件入口打包配置",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
